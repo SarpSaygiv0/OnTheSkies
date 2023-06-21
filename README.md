@@ -12,3 +12,6 @@ Welcome to the Top-Down Shooter Game repository! This project is an exciting and
 - _Health Kits_: Navigate the environment to find health kits indicated by green dots. Approach the health kit spawners and wait for a random duration to receive an instant full restoration of your health. Make use of these valuable resources to maximize your survival chances.
 
 - _Interactive Controls_: Control your character's movements using the W, A, S, and D buttons. Click the mouse buttons to shoot and use the mouse to aim. Pick up turrets and health kits by moving your character over them.
+
+
+Gameplay video: https://www.youtube.com/watch?v=uT73mHkUUTA&ab_channel=SarpSayg%C4%B1
